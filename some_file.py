@@ -43,3 +43,5 @@ dp.message.register(send_echo)
 
 if __name__ == '__main__':
     dp.run_polling(bot)
+
+# Пример комментария для теста отправки в гит файлов
